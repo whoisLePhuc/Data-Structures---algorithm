@@ -1,2 +1,2 @@
-# Data-Structures---algorithm
+# Data-Structures-algorithm
 3 month learning algorithms
